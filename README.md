@@ -1,3 +1,3 @@
 # wiffsniff
 Network Packet Sniffer
-Wrapper for RF packet sniffing
+Wrapper for rapid RF packet sniffing
