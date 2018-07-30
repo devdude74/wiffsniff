@@ -10,3 +10,4 @@ int main (int argc, char** argv)
 	} while(1);
 }
 /* end of source */
+/* foooo */
