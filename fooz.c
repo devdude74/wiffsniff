@@ -1,2 +1,3 @@
 foox
 hello world
+barfoo
